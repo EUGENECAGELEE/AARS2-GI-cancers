@@ -1,0 +1,22 @@
+{
+  "Normal": {
+    "n": 1788,
+    "n_pos": 24,
+    "frac_pos_pct": 1.34,
+    "mean_expr": 0.00757
+  },
+  "Tumor": {
+    "n": 14202,
+    "n_pos": 890,
+    "frac_pos_pct": 6.27,
+    "mean_expr": 0.02268
+  },
+  "PVTT": {
+    "n": 3329,
+    "n_pos": 377,
+    "frac_pos_pct": 11.32,
+    "mean_expr": 0.03715
+  },
+  "Tumor_vs_Normal_fisher_p": 4.948973723411157e-23,
+  "PVTT_vs_Normal_fisher_p": 2.4463884384523036e-46
+}

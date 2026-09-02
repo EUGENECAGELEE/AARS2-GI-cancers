@@ -1,0 +1,322 @@
+[
+  {
+    "cancer": "UVM",
+    "n": 80,
+    "HSP_rho": 0.584,
+    "HSP_p": 1.3249476453322421e-08,
+    "HIF1A_rho": -0.008,
+    "HIF1A_p": 0.9450479450475162,
+    "GLYCOLYSIS_rho": 0.006,
+    "GLYCOLYSIS_p": 0.9558945448820124
+  },
+  {
+    "cancer": "TGCT",
+    "n": 149,
+    "HSP_rho": 0.537,
+    "HSP_p": 1.6225469271884907e-12,
+    "HIF1A_rho": 0.386,
+    "HIF1A_p": 1.155234486213623e-06,
+    "GLYCOLYSIS_rho": 0.416,
+    "GLYCOLYSIS_p": 1.3179600344960655e-07
+  },
+  {
+    "cancer": "SKCM",
+    "n": 441,
+    "HSP_rho": 0.414,
+    "HSP_p": 1.0688896763213412e-19,
+    "HIF1A_rho": 0.093,
+    "HIF1A_p": 0.0515257595246208,
+    "GLYCOLYSIS_rho": 0.109,
+    "GLYCOLYSIS_p": 0.021597307286807914
+  },
+  {
+    "cancer": "UCS",
+    "n": 57,
+    "HSP_rho": 0.32,
+    "HSP_p": 0.015174700008046741,
+    "HIF1A_rho": 0.104,
+    "HIF1A_p": 0.4415185205273834,
+    "GLYCOLYSIS_rho": 0.095,
+    "GLYCOLYSIS_p": 0.484097269917529
+  },
+  {
+    "cancer": "STAD",
+    "n": 412,
+    "HSP_rho": 0.315,
+    "HSP_p": 5.694151353850586e-11,
+    "HIF1A_rho": 0.015,
+    "HIF1A_p": 0.7617806678848819,
+    "GLYCOLYSIS_rho": 0.008,
+    "GLYCOLYSIS_p": 0.8783289266548954
+  },
+  {
+    "cancer": "OV",
+    "n": 300,
+    "HSP_rho": 0.276,
+    "HSP_p": 1.1597142835916448e-06,
+    "HIF1A_rho": -0.248,
+    "HIF1A_p": 1.4412024092609667e-05,
+    "GLYCOLYSIS_rho": -0.241,
+    "GLYCOLYSIS_p": 2.4628826634354644e-05
+  },
+  {
+    "cancer": "DLBC",
+    "n": 48,
+    "HSP_rho": 0.258,
+    "HSP_p": 0.07648192145731397,
+    "HIF1A_rho": -0.135,
+    "HIF1A_p": 0.35973235386704283,
+    "GLYCOLYSIS_rho": -0.133,
+    "GLYCOLYSIS_p": 0.36599662767031516
+  },
+  {
+    "cancer": "KIRP",
+    "n": 283,
+    "HSP_rho": 0.242,
+    "HSP_p": 3.827238260004544e-05,
+    "HIF1A_rho": 0.155,
+    "HIF1A_p": 0.008947343075994705,
+    "GLYCOLYSIS_rho": 0.169,
+    "GLYCOLYSIS_p": 0.004407322469482408
+  },
+  {
+    "cancer": "COADREAD",
+    "n": 592,
+    "HSP_rho": 0.239,
+    "HSP_p": 3.866081548674331e-09,
+    "HIF1A_rho": 0.188,
+    "HIF1A_p": 4.082176227053214e-06,
+    "GLYCOLYSIS_rho": 0.201,
+    "GLYCOLYSIS_p": 8.613923993196317e-07
+  },
+  {
+    "cancer": "LAML",
+    "n": 173,
+    "HSP_rho": 0.21,
+    "HSP_p": 0.005549021627562125,
+    "HIF1A_rho": 0.109,
+    "HIF1A_p": 0.1531916656597897,
+    "GLYCOLYSIS_rho": 0.124,
+    "GLYCOLYSIS_p": 0.10519432180749853
+  },
+  {
+    "cancer": "LUAD",
+    "n": 510,
+    "HSP_rho": 0.204,
+    "HSP_p": 3.4552281222426768e-06,
+    "HIF1A_rho": -0.135,
+    "HIF1A_p": 0.002271149788832786,
+    "GLYCOLYSIS_rho": -0.123,
+    "GLYCOLYSIS_p": 0.005460546015474662
+  },
+  {
+    "cancer": "MESO",
+    "n": 87,
+    "HSP_rho": 0.185,
+    "HSP_p": 0.0854963748470281,
+    "HIF1A_rho": 0.006,
+    "HIF1A_p": 0.9587122651950343,
+    "GLYCOLYSIS_rho": 0.001,
+    "GLYCOLYSIS_p": 0.9958560656816359
+  },
+  {
+    "cancer": "UCEC",
+    "n": 527,
+    "HSP_rho": 0.172,
+    "HSP_p": 7.075961023747483e-05,
+    "HIF1A_rho": 0.059,
+    "HIF1A_p": 0.17804687432977914,
+    "GLYCOLYSIS_rho": 0.07,
+    "GLYCOLYSIS_p": 0.10808514778679207
+  },
+  {
+    "cancer": "CHOL",
+    "n": 36,
+    "HSP_rho": 0.171,
+    "HSP_p": 0.3181953640700406,
+    "HIF1A_rho": -0.044,
+    "HIF1A_p": 0.8011092946125664,
+    "GLYCOLYSIS_rho": -0.035,
+    "GLYCOLYSIS_p": 0.839378948662345
+  },
+  {
+    "cancer": "LUSC",
+    "n": 484,
+    "HSP_rho": 0.166,
+    "HSP_p": 0.0002436242432840908,
+    "HIF1A_rho": -0.146,
+    "HIF1A_p": 0.001240860595836394,
+    "GLYCOLYSIS_rho": -0.144,
+    "GLYCOLYSIS_p": 0.00147089405744447
+  },
+  {
+    "cancer": "SARC",
+    "n": 253,
+    "HSP_rho": 0.142,
+    "HSP_p": 0.02401839933973592,
+    "HIF1A_rho": -0.092,
+    "HIF1A_p": 0.1427747957961953,
+    "GLYCOLYSIS_rho": -0.086,
+    "GLYCOLYSIS_p": 0.17491167085777615
+  },
+  {
+    "cancer": "LGG",
+    "n": 514,
+    "HSP_rho": 0.101,
+    "HSP_p": 0.022403642008247644,
+    "HIF1A_rho": -0.032,
+    "HIF1A_p": 0.4657716884088829,
+    "GLYCOLYSIS_rho": -0.037,
+    "GLYCOLYSIS_p": 0.3987021214289863
+  },
+  {
+    "cancer": "BLCA",
+    "n": 407,
+    "HSP_rho": 0.1,
+    "HSP_p": 0.04296281641475841,
+    "HIF1A_rho": -0.127,
+    "HIF1A_p": 0.010122052686958559,
+    "GLYCOLYSIS_rho": -0.113,
+    "GLYCOLYSIS_p": 0.022066505892939927
+  },
+  {
+    "cancer": "KICH",
+    "n": 65,
+    "HSP_rho": 0.098,
+    "HSP_p": 0.43557226452729925,
+    "HIF1A_rho": 0.085,
+    "HIF1A_p": 0.498779543173405,
+    "GLYCOLYSIS_rho": 0.085,
+    "GLYCOLYSIS_p": 0.49966206659901413
+  },
+  {
+    "cancer": "ACC",
+    "n": 78,
+    "HSP_rho": 0.092,
+    "HSP_p": 0.42385674082431035,
+    "HIF1A_rho": 0.014,
+    "HIF1A_p": 0.9019635912583359,
+    "GLYCOLYSIS_rho": 0.01,
+    "GLYCOLYSIS_p": 0.9337078072915473
+  },
+  {
+    "cancer": "HNSC",
+    "n": 515,
+    "HSP_rho": 0.092,
+    "HSP_p": 0.03657538913522756,
+    "HIF1A_rho": -0.153,
+    "HIF1A_p": 0.0004851683609884894,
+    "GLYCOLYSIS_rho": -0.14,
+    "GLYCOLYSIS_p": 0.0014812368171530663
+  },
+  {
+    "cancer": "PRAD",
+    "n": 493,
+    "HSP_rho": 0.092,
+    "HSP_p": 0.04050335737665446,
+    "HIF1A_rho": -0.098,
+    "HIF1A_p": 0.029165064911987754,
+    "GLYCOLYSIS_rho": -0.097,
+    "GLYCOLYSIS_p": 0.03175102246017604
+  },
+  {
+    "cancer": "LIHC",
+    "n": 366,
+    "HSP_rho": 0.087,
+    "HSP_p": 0.09578328724336252,
+    "HIF1A_rho": -0.074,
+    "HIF1A_p": 0.15685673443050452,
+    "GLYCOLYSIS_rho": -0.075,
+    "GLYCOLYSIS_p": 0.15286741085425698
+  },
+  {
+    "cancer": "THYM",
+    "n": 119,
+    "HSP_rho": 0.079,
+    "HSP_p": 0.3921994108060654,
+    "HIF1A_rho": 0.276,
+    "HIF1A_p": 0.002343539025510813,
+    "GLYCOLYSIS_rho": 0.284,
+    "GLYCOLYSIS_p": 0.001759903007161035
+  },
+  {
+    "cancer": "BRCA",
+    "n": 1082,
+    "HSP_rho": 0.077,
+    "HSP_p": 0.01177104842669765,
+    "HIF1A_rho": 0.032,
+    "HIF1A_p": 0.2984454939024402,
+    "GLYCOLYSIS_rho": 0.045,
+    "GLYCOLYSIS_p": 0.1424085308721408
+  },
+  {
+    "cancer": "CESC",
+    "n": 294,
+    "HSP_rho": -0.055,
+    "HSP_p": 0.3482335811730134,
+    "HIF1A_rho": -0.139,
+    "HIF1A_p": 0.017187198367311057,
+    "GLYCOLYSIS_rho": -0.144,
+    "GLYCOLYSIS_p": 0.013151725801613773
+  },
+  {
+    "cancer": "THCA",
+    "n": 497,
+    "HSP_rho": 0.044,
+    "HSP_p": 0.32240893738485715,
+    "HIF1A_rho": 0.023,
+    "HIF1A_p": 0.6026727687844567,
+    "GLYCOLYSIS_rho": 0.009,
+    "GLYCOLYSIS_p": 0.840159281678316
+  },
+  {
+    "cancer": "PAAD",
+    "n": 177,
+    "HSP_rho": -0.038,
+    "HSP_p": 0.6161481844019503,
+    "HIF1A_rho": -0.096,
+    "HIF1A_p": 0.20145894913439152,
+    "GLYCOLYSIS_rho": -0.09,
+    "GLYCOLYSIS_p": 0.2321689470155356
+  },
+  {
+    "cancer": "GBM",
+    "n": 155,
+    "HSP_rho": 0.031,
+    "HSP_p": 0.701151360686643,
+    "HIF1A_rho": -0.258,
+    "HIF1A_p": 0.0011796034946627983,
+    "GLYCOLYSIS_rho": -0.272,
+    "GLYCOLYSIS_p": 0.0006108106637648914
+  },
+  {
+    "cancer": "PCPG",
+    "n": 178,
+    "HSP_rho": -0.017,
+    "HSP_p": 0.8219103608994838,
+    "HIF1A_rho": -0.177,
+    "HIF1A_p": 0.018150080030502017,
+    "GLYCOLYSIS_rho": -0.163,
+    "GLYCOLYSIS_p": 0.029412886322468284
+  },
+  {
+    "cancer": "KIRC",
+    "n": 510,
+    "HSP_rho": 0.012,
+    "HSP_p": 0.7892444749754401,
+    "HIF1A_rho": -0.016,
+    "HIF1A_p": 0.725992300566405,
+    "GLYCOLYSIS_rho": -0.008,
+    "GLYCOLYSIS_p": 0.8630712608874982
+  },
+  {
+    "cancer": "ESCA",
+    "n": 181,
+    "HSP_rho": 0.011,
+    "HSP_p": 0.8830162493238973,
+    "HIF1A_rho": -0.318,
+    "HIF1A_p": 1.3068511917266594e-05,
+    "GLYCOLYSIS_rho": -0.303,
+    "GLYCOLYSIS_p": 3.463694775261023e-05
+  }
+]

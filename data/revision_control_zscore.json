@@ -1,0 +1,452 @@
+{
+ "STAD": {
+  "CD8_T": {
+   "AARS2_rho": -0.1952,
+   "control_mean_rho": -0.07139583333333334,
+   "control_sd": 0.09296332366638711,
+   "z_score": -1.3317528008245119,
+   "pct_abs_rho_above_controls": 87.5,
+   "n_controls": 24
+  },
+  "CD4_T": {
+   "AARS2_rho": -0.1608,
+   "control_mean_rho": -0.1847375,
+   "control_sd": 0.1013425864923356,
+   "z_score": 0.23620376022088563,
+   "pct_abs_rho_above_controls": 37.5,
+   "n_controls": 24
+  },
+  "Treg": {
+   "AARS2_rho": -0.1592,
+   "control_mean_rho": -0.14027916666666668,
+   "control_sd": 0.08375225359286792,
+   "z_score": -0.2259143189783322,
+   "pct_abs_rho_above_controls": 50.0,
+   "n_controls": 24
+  },
+  "NK": {
+   "AARS2_rho": -0.2773,
+   "control_mean_rho": -0.08856666666666667,
+   "control_sd": 0.114736949306803,
+   "z_score": -1.6449220105082827,
+   "pct_abs_rho_above_controls": 95.83333333333334,
+   "n_controls": 24
+  },
+  "B": {
+   "AARS2_rho": -0.2121,
+   "control_mean_rho": -0.19802499999999998,
+   "control_sd": 0.10262218698151762,
+   "z_score": -0.13715357676537293,
+   "pct_abs_rho_above_controls": 58.333333333333336,
+   "n_controls": 24
+  },
+  "Macrophage": {
+   "AARS2_rho": -0.2197,
+   "control_mean_rho": -0.1098125,
+   "control_sd": 0.11912926597133706,
+   "z_score": -0.9224223712285724,
+   "pct_abs_rho_above_controls": 79.16666666666666,
+   "n_controls": 24
+  },
+  "M1": {
+   "AARS2_rho": -0.0806,
+   "control_mean_rho": 0.010591666666666675,
+   "control_sd": 0.09739490173545004,
+   "z_score": -0.9363084210954598,
+   "pct_abs_rho_above_controls": 58.333333333333336,
+   "n_controls": 24
+  },
+  "M2": {
+   "AARS2_rho": -0.279,
+   "control_mean_rho": -0.2045375,
+   "control_sd": 0.12380029434712497,
+   "z_score": -0.6014727217951018,
+   "pct_abs_rho_above_controls": 62.5,
+   "n_controls": 24
+  },
+  "DC": {
+   "AARS2_rho": -0.2057,
+   "control_mean_rho": -0.1926083333333333,
+   "control_sd": 0.10726635647715485,
+   "z_score": -0.12204820874525467,
+   "pct_abs_rho_above_controls": 50.0,
+   "n_controls": 24
+  },
+  "Neutrophil": {
+   "AARS2_rho": -0.0316,
+   "control_mean_rho": 0.017975,
+   "control_sd": 0.06981786397788736,
+   "z_score": -0.710061826235494,
+   "pct_abs_rho_above_controls": 41.66666666666667,
+   "n_controls": 24
+  },
+  "Monocyte": {
+   "AARS2_rho": -0.044,
+   "control_mean_rho": -0.05309166666666667,
+   "control_sd": 0.07065434487188571,
+   "z_score": 0.12867809733643662,
+   "pct_abs_rho_above_controls": 37.5,
+   "n_controls": 24
+  }
+ },
+ "ESCA": {
+  "CD8_T": {
+   "AARS2_rho": -0.0548,
+   "control_mean_rho": -0.112775,
+   "control_sd": 0.09342554464012691,
+   "z_score": 0.620547626704435,
+   "pct_abs_rho_above_controls": 16.666666666666664,
+   "n_controls": 24
+  },
+  "CD4_T": {
+   "AARS2_rho": -0.0724,
+   "control_mean_rho": -0.16394166666666665,
+   "control_sd": 0.07717307999142135,
+   "z_score": 1.1861865131836453,
+   "pct_abs_rho_above_controls": 12.5,
+   "n_controls": 24
+  },
+  "Treg": {
+   "AARS2_rho": -0.1797,
+   "control_mean_rho": -0.20907083333333332,
+   "control_sd": 0.09044342684874854,
+   "z_score": 0.32474259718675974,
+   "pct_abs_rho_above_controls": 37.5,
+   "n_controls": 24
+  },
+  "NK": {
+   "AARS2_rho": -0.1593,
+   "control_mean_rho": -0.15821666666666667,
+   "control_sd": 0.11008368621650753,
+   "z_score": -0.009840997976781726,
+   "pct_abs_rho_above_controls": 50.0,
+   "n_controls": 24
+  },
+  "B": {
+   "AARS2_rho": 0.073,
+   "control_mean_rho": -0.08602083333333332,
+   "control_sd": 0.11155461902298047,
+   "z_score": 1.4254975251233186,
+   "pct_abs_rho_above_controls": 45.83333333333333,
+   "n_controls": 24
+  },
+  "Macrophage": {
+   "AARS2_rho": -0.1557,
+   "control_mean_rho": -0.16748333333333335,
+   "control_sd": 0.10039567228965975,
+   "z_score": 0.11736893697306278,
+   "pct_abs_rho_above_controls": 45.83333333333333,
+   "n_controls": 24
+  },
+  "M1": {
+   "AARS2_rho": 0.0481,
+   "control_mean_rho": -0.04595,
+   "control_sd": 0.09405708257546955,
+   "z_score": 0.9999246991797363,
+   "pct_abs_rho_above_controls": 29.166666666666668,
+   "n_controls": 24
+  },
+  "M2": {
+   "AARS2_rho": -0.4327,
+   "control_mean_rho": -0.18700833333333333,
+   "control_sd": 0.13770139059215958,
+   "z_score": -1.7842351889847639,
+   "pct_abs_rho_above_controls": 100.0,
+   "n_controls": 24
+  },
+  "DC": {
+   "AARS2_rho": -0.1701,
+   "control_mean_rho": -0.20114583333333333,
+   "control_sd": 0.07657922853328847,
+   "z_score": 0.4054080189621905,
+   "pct_abs_rho_above_controls": 37.5,
+   "n_controls": 24
+  },
+  "Neutrophil": {
+   "AARS2_rho": -0.1716,
+   "control_mean_rho": -0.05850416666666666,
+   "control_sd": 0.1603408529112866,
+   "z_score": -0.7053463373798255,
+   "pct_abs_rho_above_controls": 66.66666666666666,
+   "n_controls": 24
+  },
+  "Monocyte": {
+   "AARS2_rho": 0.111,
+   "control_mean_rho": -0.012783333333333336,
+   "control_sd": 0.15527848101609787,
+   "z_score": 0.797169913843378,
+   "pct_abs_rho_above_controls": 54.166666666666664,
+   "n_controls": 24
+  }
+ },
+ "LIHC": {
+  "CD8_T": {
+   "AARS2_rho": -0.1441,
+   "control_mean_rho": -0.04075,
+   "control_sd": 0.10066641856193631,
+   "z_score": -1.02665815945774,
+   "pct_abs_rho_above_controls": 79.16666666666666,
+   "n_controls": 24
+  },
+  "CD4_T": {
+   "AARS2_rho": -0.1882,
+   "control_mean_rho": 0.0016999999999999977,
+   "control_sd": 0.1057248644195004,
+   "z_score": -1.7961716105542147,
+   "pct_abs_rho_above_controls": 95.83333333333334,
+   "n_controls": 24
+  },
+  "Treg": {
+   "AARS2_rho": -0.0006,
+   "control_mean_rho": -0.06377500000000001,
+   "control_sd": 0.08461185162128654,
+   "z_score": 0.7466448114475079,
+   "pct_abs_rho_above_controls": 0.0,
+   "n_controls": 24
+  },
+  "NK": {
+   "AARS2_rho": -0.1201,
+   "control_mean_rho": -0.026870833333333333,
+   "control_sd": 0.1437381540802782,
+   "z_score": -0.6486041737714113,
+   "pct_abs_rho_above_controls": 54.166666666666664,
+   "n_controls": 24
+  },
+  "B": {
+   "AARS2_rho": -0.143,
+   "control_mean_rho": -0.04382083333333333,
+   "control_sd": 0.11258412112598358,
+   "z_score": -0.8809338801489017,
+   "pct_abs_rho_above_controls": 79.16666666666666,
+   "n_controls": 24
+  },
+  "Macrophage": {
+   "AARS2_rho": -0.2161,
+   "control_mean_rho": 0.012233333333333334,
+   "control_sd": 0.1997650504025137,
+   "z_score": -1.143009414676173,
+   "pct_abs_rho_above_controls": 66.66666666666666,
+   "n_controls": 24
+  },
+  "M1": {
+   "AARS2_rho": -0.0161,
+   "control_mean_rho": -0.07479166666666667,
+   "control_sd": 0.07602739161224933,
+   "z_score": 0.7719805378303999,
+   "pct_abs_rho_above_controls": 8.333333333333332,
+   "n_controls": 24
+  },
+  "M2": {
+   "AARS2_rho": -0.2237,
+   "control_mean_rho": 0.0618375,
+   "control_sd": 0.197114060585324,
+   "z_score": -1.448590218029629,
+   "pct_abs_rho_above_controls": 70.83333333333334,
+   "n_controls": 24
+  },
+  "DC": {
+   "AARS2_rho": -0.1675,
+   "control_mean_rho": -0.04237083333333334,
+   "control_sd": 0.13050496068921194,
+   "z_score": -0.9588077419114563,
+   "pct_abs_rho_above_controls": 75.0,
+   "n_controls": 24
+  },
+  "Neutrophil": {
+   "AARS2_rho": -0.0836,
+   "control_mean_rho": 0.010887500000000001,
+   "control_sd": 0.12207369589006827,
+   "z_score": -0.7740201466914656,
+   "pct_abs_rho_above_controls": 66.66666666666666,
+   "n_controls": 24
+  },
+  "Monocyte": {
+   "AARS2_rho": -0.1878,
+   "control_mean_rho": -0.03732083333333333,
+   "control_sd": 0.10895149690360492,
+   "z_score": -1.381157404379707,
+   "pct_abs_rho_above_controls": 83.33333333333334,
+   "n_controls": 24
+  }
+ },
+ "PAAD": {
+  "CD8_T": {
+   "AARS2_rho": 0.1025,
+   "control_mean_rho": -0.138925,
+   "control_sd": 0.1732583425433522,
+   "z_score": 1.3934393949289416,
+   "pct_abs_rho_above_controls": 29.166666666666668,
+   "n_controls": 24
+  },
+  "CD4_T": {
+   "AARS2_rho": -0.0138,
+   "control_mean_rho": -0.15305,
+   "control_sd": 0.17837255101758717,
+   "z_score": 0.7806694427231139,
+   "pct_abs_rho_above_controls": 4.166666666666666,
+   "n_controls": 24
+  },
+  "Treg": {
+   "AARS2_rho": -0.0157,
+   "control_mean_rho": -0.12599583333333333,
+   "control_sd": 0.2087905055295268,
+   "z_score": 0.5282607705441639,
+   "pct_abs_rho_above_controls": 8.333333333333332,
+   "n_controls": 24
+  },
+  "NK": {
+   "AARS2_rho": 0.1504,
+   "control_mean_rho": -0.10854166666666666,
+   "control_sd": 0.153636694316754,
+   "z_score": 1.685415504533081,
+   "pct_abs_rho_above_controls": 54.166666666666664,
+   "n_controls": 24
+  },
+  "B": {
+   "AARS2_rho": 0.0487,
+   "control_mean_rho": -0.07885416666666667,
+   "control_sd": 0.12042251334785574,
+   "z_score": 1.0592219272006909,
+   "pct_abs_rho_above_controls": 25.0,
+   "n_controls": 24
+  },
+  "Macrophage": {
+   "AARS2_rho": -0.1477,
+   "control_mean_rho": -0.09932083333333334,
+   "control_sd": 0.1617687936240476,
+   "z_score": -0.2990636548795706,
+   "pct_abs_rho_above_controls": 50.0,
+   "n_controls": 24
+  },
+  "M1": {
+   "AARS2_rho": -0.0011,
+   "control_mean_rho": -0.05497916666666667,
+   "control_sd": 0.13742253779830854,
+   "z_score": 0.3920693616191524,
+   "pct_abs_rho_above_controls": 0.0,
+   "n_controls": 24
+  },
+  "M2": {
+   "AARS2_rho": -0.094,
+   "control_mean_rho": -0.13251666666666667,
+   "control_sd": 0.16734204405989825,
+   "z_score": 0.23016730124845405,
+   "pct_abs_rho_above_controls": 25.0,
+   "n_controls": 24
+  },
+  "DC": {
+   "AARS2_rho": 0.0509,
+   "control_mean_rho": -0.18837916666666665,
+   "control_sd": 0.16208992131091837,
+   "z_score": 1.476212492001184,
+   "pct_abs_rho_above_controls": 12.5,
+   "n_controls": 24
+  },
+  "Neutrophil": {
+   "AARS2_rho": -0.1497,
+   "control_mean_rho": -0.048087500000000005,
+   "control_sd": 0.11218775920401204,
+   "z_score": -0.9057360688987373,
+   "pct_abs_rho_above_controls": 70.83333333333334,
+   "n_controls": 24
+  },
+  "Monocyte": {
+   "AARS2_rho": 0.0739,
+   "control_mean_rho": 0.07184583333333333,
+   "control_sd": 0.13881542634224667,
+   "z_score": 0.01479782701961492,
+   "pct_abs_rho_above_controls": 45.83333333333333,
+   "n_controls": 24
+  }
+ },
+ "COADREAD": {
+  "CD8_T": {
+   "AARS2_rho": -0.0171,
+   "control_mean_rho": -0.05686666666666667,
+   "control_sd": 0.0924385843901667,
+   "z_score": 0.43019553933040233,
+   "pct_abs_rho_above_controls": 8.333333333333332,
+   "n_controls": 24
+  },
+  "CD4_T": {
+   "AARS2_rho": -0.1893,
+   "control_mean_rho": -0.13313333333333335,
+   "control_sd": 0.11347584177553682,
+   "z_score": -0.4949658516547359,
+   "pct_abs_rho_above_controls": 70.83333333333334,
+   "n_controls": 24
+  },
+  "Treg": {
+   "AARS2_rho": -0.0251,
+   "control_mean_rho": -0.1805125,
+   "control_sd": 0.12279219389047002,
+   "z_score": 1.265654558942298,
+   "pct_abs_rho_above_controls": 4.166666666666666,
+   "n_controls": 24
+  },
+  "NK": {
+   "AARS2_rho": -0.0235,
+   "control_mean_rho": -0.10783333333333334,
+   "control_sd": 0.11171486089561915,
+   "z_score": 0.7548980740541784,
+   "pct_abs_rho_above_controls": 4.166666666666666,
+   "n_controls": 24
+  },
+  "B": {
+   "AARS2_rho": -0.1047,
+   "control_mean_rho": -0.13197916666666668,
+   "control_sd": 0.08798005198396651,
+   "z_score": 0.31006081550892955,
+   "pct_abs_rho_above_controls": 33.33333333333333,
+   "n_controls": 24
+  },
+  "Macrophage": {
+   "AARS2_rho": -0.0281,
+   "control_mean_rho": -0.1807,
+   "control_sd": 0.13881034293001304,
+   "z_score": 1.0993417117119262,
+   "pct_abs_rho_above_controls": 0.0,
+   "n_controls": 24
+  },
+  "M1": {
+   "AARS2_rho": -0.0063,
+   "control_mean_rho": -0.0176625,
+   "control_sd": 0.11287018635313448,
+   "z_score": 0.10066874492835864,
+   "pct_abs_rho_above_controls": 0.0,
+   "n_controls": 24
+  },
+  "M2": {
+   "AARS2_rho": -0.0779,
+   "control_mean_rho": -0.18689583333333334,
+   "control_sd": 0.1169109935663309,
+   "z_score": 0.9322975539635048,
+   "pct_abs_rho_above_controls": 12.5,
+   "n_controls": 24
+  },
+  "DC": {
+   "AARS2_rho": 0.0365,
+   "control_mean_rho": -0.19095833333333334,
+   "control_sd": 0.10276780039049901,
+   "z_score": 2.213322971485552,
+   "pct_abs_rho_above_controls": 0.0,
+   "n_controls": 24
+  },
+  "Neutrophil": {
+   "AARS2_rho": -0.0378,
+   "control_mean_rho": -0.013270833333333334,
+   "control_sd": 0.08676493220273342,
+   "z_score": -0.2827083021208643,
+   "pct_abs_rho_above_controls": 37.5,
+   "n_controls": 24
+  },
+  "Monocyte": {
+   "AARS2_rho": -0.0821,
+   "control_mean_rho": -0.0787625,
+   "control_sd": 0.13543408732985046,
+   "z_score": -0.024642983652051403,
+   "pct_abs_rho_above_controls": 50.0,
+   "n_controls": 24
+  }
+ }
+}

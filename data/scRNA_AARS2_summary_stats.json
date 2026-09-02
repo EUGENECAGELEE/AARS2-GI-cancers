@@ -1,0 +1,18 @@
+{
+  "AARS2_pos_pct_by_celltype": {
+    "Hepatocyte": 6.61,
+    "Endothelial": 1.62,
+    "B": 1.68,
+    "Fibroblast": 1.5,
+    "T/NK": 0.97,
+    "Myeloid": 1.2
+  },
+  "hep_vs_rest_chi2_p": 0.0,
+  "hep_vs_each_fisher_p": {
+    "Endothelial": 8.739878585867396e-42,
+    "B": 1.0451197089809159e-40,
+    "Fibroblast": 4.0304846642069656e-29,
+    "T/NK": 4.516876836225408e-252,
+    "Myeloid": 6.414707402402023e-165
+  }
+}
